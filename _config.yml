@@ -1,0 +1,14 @@
+layout_spectrum: 0.8938021552748978
+typography_spectrum: 0.39728415152058005
+color:
+  brandStrength: 0.16522192652337253
+  lightness: 0.7898751778993756
+  saturation: 0.4234753700438887
+  rhythmicContrast: 0.23561559058725834
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: bildwort
